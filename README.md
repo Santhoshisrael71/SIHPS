@@ -34,7 +34,9 @@ Here are **five key ideas** for implementing the Alumni Association platform:
 
 
 ## Use Cases!
-[Screenshot 2024-11-21 152428](https://github.com/user-attachments/assets/d3ccca23-1fd8-4980-ba09-198d4370f117)
+![image](https://github.com/user-attachments/assets/c649cda3-df7c-4c39-bcd4-a93d07e4bb59)
+
+
 
 
 
