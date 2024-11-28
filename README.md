@@ -41,19 +41,20 @@ Here are **five key ideas** for implementing the Alumni Association platform:
 
 
 ## Technology Stack
-Frontend: React.js (web), React Native/Flutter (mobile)
-Backend: Node.js with Express or Django
-Database: PostgreSQL or MongoDB
-Payment Integration: Stripe or PayPal
-Cloud Hosting: AWS or Google Cloud Platform (GCP)
+1. **Frontend**: React.js for the web app, Flutter for the mobile app.  
+2. **Backend**: Node.js with Express or Django for API development.  
+3. **Database**: PostgreSQL for relational data, MongoDB for document-based storage.  
+4. **Hosting**: AWS (EC2, S3) or Google Cloud Platform for scalability.  
+5. **Payment Gateway**: Stripe or PayPal for secure donation processing.  
 
 
 ## Dependencies
-Frontend: React.js (web), React Native/Flutter (mobile)
-Backend: Node.js with Express
-Database: PostgreSQL or MongoDB
-Authentication: JWT or OAuth 2.0
-Payment Integration: Stripe or PayPal
+1. **Authentication**: Firebase Authentication or Auth0 for secure login.  
+2. **Payment Integration**: Stripe SDK or PayPal API for donation handling.  
+3. **Notifications**: Twilio API for SMS and SendGrid for email notifications.  
+4. **Cloud Storage**: AWS S3 or Google Cloud Storage for file uploads and media.  
+5. **UI Components**: Material-UI or Tailwind CSS for responsive and modern design.  
+
 
 
 
